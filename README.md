@@ -1,6 +1,6 @@
-# uts_mobile_programming
+# UTS MOBILE PROGRAMMING HIBATUL AKMAL
 
-A new Flutter project.
+UTS AKMAL
 
 ## Getting Started
 
